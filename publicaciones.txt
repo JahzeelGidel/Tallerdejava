@@ -1,0 +1,11 @@
+LIBROFISICO;001;Cien Años de Soledad;Gabriel García Márquez;true;0
+LIBRODIGITAL;002;1984;George Orwell;true;0
+LIBROFISICO;003;Don Quijote de la Mancha;Miguel de Cervantes;true;0
+LIBRODIGITAL;004;La Sombra del Viento;Carlos Ruiz Zafón;true;0
+LIBROFISICO;005;Orgullo y Prejuicio;Jane Austen;true;0
+LIBRODIGITAL;006;El Principito;Antoine de Saint-Exupéry;true;0
+LIBROFISICO;007;Los Juegos del Hambre;Suzanne Collins;true;0
+LIBRODIGITAL;008;Harry Potter y la piedra filosofal;J.K. Rowling;true;0
+REVISTA;009;National Geographic;202;true;0
+REVISTA;010;Muy Interesante;108;true;0
+REVISTA;011;Scientific American;315;true;0
